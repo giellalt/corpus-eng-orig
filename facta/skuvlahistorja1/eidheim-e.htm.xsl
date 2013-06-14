@@ -18,7 +18,7 @@
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://skuvla.info/skolehist/eidheim-e.htm'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Harald Eidheim'"/>
+<xsl:variable name="title" select="'Emergency teacher in Samiland: experiences and reflections'"/>
 <xsl:variable name="author1_fn" select="'Harald'"/>
 <xsl:variable name="author1_ln" select="'Eidheim'"/>
 <xsl:variable name="author1_gender" select="'m'"/>
@@ -105,10 +105,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'eidheim_n.html'"/>
+<xsl:variable name="para_nno" select="'eidheim-n.htm'"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'eidheim_s.html'"/>
+<xsl:variable name="para_sme" select="'eidheim-s.htm'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
