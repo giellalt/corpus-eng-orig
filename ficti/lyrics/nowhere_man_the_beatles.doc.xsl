@@ -97,7 +97,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'karasjok_kulturskole_mannui_laide_mu.doc'"/>
+<xsl:variable name="para_sme" select="'karasjok_kulturskole_ii_mihkkige-almmai.doc'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 <xsl:variable name="para_kpv" select="''"/>
