@@ -151,8 +151,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="statsministerens-tale-ved-nasjonal-minne.html_id=652655" xml:lang="nob"/>
-	<parallel_text location="stahtaministara-sardni-2272011-naunala-m.html_id=652655" xml:lang="sme"/>
+	<parallel_text location="statsministerens-tale-ved-nasjonal-minne_id_652655.html" xml:lang="nob"/>
+	<parallel_text location="stahtaministara-sardni-2272011-naunala-m_id_652655.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

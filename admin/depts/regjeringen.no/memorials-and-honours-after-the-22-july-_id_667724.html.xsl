@@ -151,8 +151,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="minnesmerker-og-hedring-etter-angrepene-.html_id=667724" xml:lang="nob"/>
-	<parallel_text location="muitobaccit-ja-gudnejahttimat-mail-suoid.html_id=667724" xml:lang="sme"/>
+	<parallel_text location="minnesmerker-og-hedring-etter-angrepene-_id_667724.html" xml:lang="nob"/>
+	<parallel_text location="muitobaccit-ja-gudnejahttimat-mail-suoid_id_667724.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="hoykonjunkturen-fortsetter-i-norsk-okono.html_id=511405" xml:lang="nob"/>
-	<parallel_text location="allakonjuktuvra-joatka-norgga-ekonomiija.html_id=511405" xml:lang="sme"/>
+	<parallel_text location="hoykonjunkturen-fortsetter-i-norsk-okono_id_511405.html" xml:lang="nob"/>
+	<parallel_text location="allakonjuktuvra-joatka-norgga-ekonomiija_id_511405.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

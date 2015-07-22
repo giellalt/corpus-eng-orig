@@ -162,9 +162,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-norges-blindeforbund-og-norsk-folkehjelp.html_id=614481" xml:lang="nno"/>
-	<parallel_text location="avtalesignering.html_id=613684" xml:lang="nob"/>
-	<parallel_text location="norga-ja-ruoa-vuollaialliba-iehtadusa.html_id=613684" xml:lang="sme"/>
+	<parallel_text location="etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-norges-blindeforbund-og-norsk-folkehjelp_id_614481.html" xml:lang="nno"/>
+	<parallel_text location="avtalesignering_id_613684.html" xml:lang="nob"/>
+	<parallel_text location="norga-ja-ruoa-vuollaialliba-iehtadusa_id_613684.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

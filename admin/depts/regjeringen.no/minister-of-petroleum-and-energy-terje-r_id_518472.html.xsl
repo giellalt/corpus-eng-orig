@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="olje--og-energiminister-terje-riis-johan.html_id=518472" xml:lang="nno"/>
-	<parallel_text location="olje--og-energiminister-terje-riis-johan.html_id=518472" xml:lang="nob"/>
-	<parallel_text location="tjr.html_id=518472" xml:lang="sme"/>
+	<parallel_text location="olje--og-energiminister-terje-riis-johan_id_518472.html" xml:lang="nno"/>
+	<parallel_text location="olje--og-energiminister-terje-riis-johan_id_518472.html" xml:lang="nob"/>
+	<parallel_text location="tjr_id_518472.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

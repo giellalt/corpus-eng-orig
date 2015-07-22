@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="wtooecd.html_id=85975" xml:lang="nob"/>
-	<parallel_text location="wtooecd-sekuvdna-.html_id=85975" xml:lang="sme"/>
+	<parallel_text location="wtooecd_id_85975.html" xml:lang="nob"/>
+	<parallel_text location="wtooecd-sekuvdna-_id_85975.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

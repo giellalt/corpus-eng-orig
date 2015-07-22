@@ -151,9 +151,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="ny-rapport-har-kartlagt-eksporten-fra-no.html_id=673544" xml:lang="nno"/>
+	<parallel_text location="ny-rapport-har-kartlagt-eksporten-fra-no_id_673544.html" xml:lang="nno"/>
 	<parallel_text location="mangel-pa-samisk-larere-og-laremidler.html_id=673673" xml:lang="nob"/>
-	<parallel_text location="oa-raporta-lea-guorahallan-vuovdimiid-ol.html_id=673544" xml:lang="sme"/>
+	<parallel_text location="oa-raporta-lea-guorahallan-vuovdimiid-ol_id_673544.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="lover-og-reglar.html_id=313564" xml:lang="nno"/>
-	<parallel_text location="lover_regler.html_id=313564" xml:lang="nob"/>
+	<parallel_text location="lover-og-reglar_id_313564.html" xml:lang="nno"/>
+	<parallel_text location="lover_regler_id_313564.html" xml:lang="nob"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

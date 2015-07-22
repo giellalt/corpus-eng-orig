@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="regjeringen-vil-fulldigitalisere-forvalt.html_id=677967" xml:lang="nob"/>
-	<parallel_text location="raehus-aigu-ollasit-digitaliseret-haldda.html_id=677967" xml:lang="sme"/>
+	<parallel_text location="regjeringen-vil-fulldigitalisere-forvalt_id_677967.html" xml:lang="nob"/>
+	<parallel_text location="raehus-aigu-ollasit-digitaliseret-haldda_id_677967.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

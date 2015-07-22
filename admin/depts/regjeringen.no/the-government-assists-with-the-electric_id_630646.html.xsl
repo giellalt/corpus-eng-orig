@@ -148,9 +148,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="regjeringa-vil-gje-hjelp-til-straumrekni.html_id=630646" xml:lang="nno"/>
-	<parallel_text location="98-partilag-mister-statsstotten-i-2011.html_id=631488" xml:lang="nob"/>
-	<parallel_text location="raehus-haliida-veahkehit-ravdnjerehkega-.html_id=630646" xml:lang="sme"/>
+	<parallel_text location="regjeringa-vil-gje-hjelp-til-straumrekni_id_630646.html" xml:lang="nno"/>
+	<parallel_text location="98-partilag-mister-statsstotten-i-2011_id_631488.html" xml:lang="nob"/>
+	<parallel_text location="raehus-haliida-veahkehit-ravdnjerehkega-_id_630646.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

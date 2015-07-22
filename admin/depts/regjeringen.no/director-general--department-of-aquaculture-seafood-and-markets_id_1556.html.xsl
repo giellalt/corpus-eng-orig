@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="ekspedisjonssjef---avdeling-for-havbruk-.html_id=1556" xml:lang="nno"/>
-	<parallel_text location="ekspedisjonssjef_-_avdeling_for_havbruk_.html_id=1556" xml:lang="nob"/>
-	<parallel_text location="ekspediuvdnahoavda--mearraavkkastallan-mearrabiebmu-ja-markan-.html_id=1556" xml:lang="sme"/>
+	<parallel_text location="ekspedisjonssjef---avdeling-for-havbruk-_id_1556.html" xml:lang="nno"/>
+	<parallel_text location="ekspedisjonssjef_-_avdeling_for_havbruk_id_1556.html" xml:lang="nob"/>
+	<parallel_text location="ekspediuvdnahoavda--mearraavkkastallan-mearrabiebmu-ja-markan-_id_1556.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

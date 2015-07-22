@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="roger-schjerva.html_id=272481" xml:lang="nno"/>
-	<parallel_text location="roger-schjerva-.html_id=272481" xml:lang="nob"/>
-	<parallel_text location="stahtaalli-roger-schjerva-.html_id=272481" xml:lang="sme"/>
+	<parallel_text location="roger-schjerva_id_272481.html" xml:lang="nno"/>
+	<parallel_text location="roger-schjerva-_id_272481.html" xml:lang="nob"/>
+	<parallel_text location="stahtaalli-roger-schjerva-_id_272481.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

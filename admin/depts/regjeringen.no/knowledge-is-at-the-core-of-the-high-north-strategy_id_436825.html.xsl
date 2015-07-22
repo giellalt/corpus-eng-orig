@@ -195,8 +195,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="kunnskap-er-selve-navet-i-nordomradestr.html_id=436825" xml:lang="nob"/>
-	<parallel_text location="mahttu-lea-ie-namma-davveguovlostrate.html_id=436825" xml:lang="sme"/>
+	<parallel_text location="kunnskap-er-selve-navet-i-nordomradestr_id_436825.html" xml:lang="nob"/>
+	<parallel_text location="mahttu-lea-ie-namma-davveguovlostrate_id_436825.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

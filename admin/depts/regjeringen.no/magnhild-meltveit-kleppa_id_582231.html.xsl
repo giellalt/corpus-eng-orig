@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="samferdselsminister-magnhild-meltveit-kl.html_id=582231" xml:lang="nno"/>
-	<parallel_text location="magnhild-meltveit-kleppa.html_id=582231" xml:lang="nob"/>
-	<parallel_text location="johtalusministtar-magnhild-meltveit-klep.html_id=582231" xml:lang="sme"/>
+	<parallel_text location="samferdselsminister-magnhild-meltveit-kl_id_582231.html" xml:lang="nno"/>
+	<parallel_text location="magnhild-meltveit-kleppa_id_582231.html" xml:lang="nob"/>
+	<parallel_text location="johtalusministtar-magnhild-meltveit-klep_id_582231.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

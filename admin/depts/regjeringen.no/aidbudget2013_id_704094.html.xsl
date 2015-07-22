@@ -151,8 +151,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="bistandsbudsjett-doblet.html_id=704094" xml:lang="nob"/>
-	<parallel_text location="ovddidanbuseahta.html_id=704094" xml:lang="sme"/>
+	<parallel_text location="bistandsbudsjett-doblet_id_704094.html" xml:lang="nob"/>
+	<parallel_text location="ovddidanbuseahta_id_704094.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

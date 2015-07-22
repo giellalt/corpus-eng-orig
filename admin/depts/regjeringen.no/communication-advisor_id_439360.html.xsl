@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="kommunikasjonsradgjevar-karin-johansen.html_id=439360" xml:lang="nno"/>
-	<parallel_text location="kommunikasjonsradgiver-karin-johansen.html_id=439360" xml:lang="nob"/>
-	<parallel_text location="diehtojuohkinraeaddi.html_id=439360" xml:lang="sme"/>
+	<parallel_text location="kommunikasjonsradgjevar-karin-johansen_id_439360.html" xml:lang="nno"/>
+	<parallel_text location="kommunikasjonsradgiver-karin-johansen_id_439360.html" xml:lang="nob"/>
+	<parallel_text location="diehtojuohkinraeaddi_id_439360.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

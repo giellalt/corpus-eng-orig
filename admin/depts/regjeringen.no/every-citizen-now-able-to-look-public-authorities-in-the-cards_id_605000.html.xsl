@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="no-kan-du-kike-forvaltninga-i-korta.html_id=605000" xml:lang="nno"/>
-	<parallel_text location="na-kan-du-kikke-forvaltningen-i-kortene.html_id=605000" xml:lang="nob"/>
-	<parallel_text location="dal-don-beasat-diehtit-maid-halddahus-barga.html_id=605000" xml:lang="sme"/>
+	<parallel_text location="no-kan-du-kike-forvaltninga-i-korta_id_605000.html" xml:lang="nno"/>
+	<parallel_text location="na-kan-du-kikke-forvaltningen-i-kortene_id_605000.html" xml:lang="nob"/>
+	<parallel_text location="dal-don-beasat-diehtit-maid-halddahus-barga_id_605000.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

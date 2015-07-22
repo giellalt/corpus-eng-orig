@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="statsbudsjettet-2010-rekordstore-loyving.html_id=581312" xml:lang="nno"/>
-	<parallel_text location="stahtabueahtta-2010-geaidno--ja-ruovdema.html_id=581312" xml:lang="sme"/>
+	<parallel_text location="statsbudsjettet-2010-rekordstore-loyving_id_581312.html" xml:lang="nno"/>
+	<parallel_text location="stahtabueahtta-2010-geaidno--ja-ruovdema_id_581312.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

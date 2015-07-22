@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="okonomiavdelinga.html_id=1546" xml:lang="nno"/>
-	<parallel_text location="okonomiavdelingen.html_id=1546" xml:lang="nob"/>
-	<parallel_text location="ekonomiijaossodat-.html_id=1546" xml:lang="sme"/>
+	<parallel_text location="okonomiavdelinga_id_1546.html" xml:lang="nno"/>
+	<parallel_text location="okonomiavdelingen_id_1546.html" xml:lang="nob"/>
+	<parallel_text location="ekonomiijaossodat-_id_1546.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

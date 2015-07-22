@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="plan--og-bygningsloven-2.html_id=570450" xml:lang="nob"/>
-	<parallel_text location="lahka-2008-06-27-71-planema-ja-huksenaemeannudeami-birra-plana--ja-huksenlahka-planaoassi.html_id=570450" xml:lang="sme"/>
+	<parallel_text location="plan--og-bygningsloven-2_id_570450.html" xml:lang="nob"/>
+	<parallel_text location="lahka-2008-06-27-71-planema-ja-huksenaemeannudeami-birra-plana--ja-huksenlahka-planaoassi_id_570450.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

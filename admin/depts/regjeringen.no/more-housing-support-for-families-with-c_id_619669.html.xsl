@@ -198,7 +198,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="meir-bustotte-til-barnefamiliane-.html_id=619669" xml:lang="nno"/>
-	<parallel_text location="eanet-orrundoarjja-bearraiidda-geain-lea.html_id=619669" xml:lang="sme"/>
+	<parallel_text location="eanet-orrundoarjja-bearraiidda-geain-lea_id_619669.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

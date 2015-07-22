@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="narings--og-handelsminister-trond-giske.html_id=582212" xml:lang="nno"/>
-	<parallel_text location="narings--og-handelsminister-trond-giske.html_id=582212" xml:lang="nob"/>
-	<parallel_text location="ealahus--ja-gavpeministtar-trond-giske.html_id=582212" xml:lang="sme"/>
+	<parallel_text location="narings--og-handelsminister-trond-giske_id_582212.html" xml:lang="nno"/>
+	<parallel_text location="narings--og-handelsminister-trond-giske_id_582212.html" xml:lang="nob"/>
+	<parallel_text location="ealahus--ja-gavpeministtar-trond-giske_id_582212.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

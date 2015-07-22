@@ -157,9 +157,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="endringar-i-privatskolelova.html_id=749098" xml:lang="nno"/>
-	<parallel_text location="norge-tilbyr-fn-lufttransportstotte.html_id=749123" xml:lang="nob"/>
-	<parallel_text location="norga-falla-oni-aibmofievrredandoarjaga.html_id=749123" xml:lang="sme"/>
+	<parallel_text location="endringar-i-privatskolelova_id_749098.html" xml:lang="nno"/>
+	<parallel_text location="norge-tilbyr-fn-lufttransportstotte_id_749123.html" xml:lang="nob"/>
+	<parallel_text location="norga-falla-oni-aibmofievrredandoarjaga_id_749123.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

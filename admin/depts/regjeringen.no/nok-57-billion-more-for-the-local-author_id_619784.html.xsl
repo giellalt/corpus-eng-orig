@@ -197,9 +197,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="57-milliardar-kroner-meir-til-kommunane.html_id=619784" xml:lang="nno"/>
+	<parallel_text location="57-milliardar-kroner-meir-til-kommunane_id_619784.html" xml:lang="nno"/>
 	<parallel_text location="et-godt-men-stramt-forsvarsbudsjett.html_id=619069" xml:lang="nob"/>
-	<parallel_text location="57-miljardda-ruvdno-lassaneapmi-suohkani.html_id=619784" xml:lang="sme"/>
+	<parallel_text location="57-miljardda-ruvdno-lassaneapmi-suohkani_id_619784.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

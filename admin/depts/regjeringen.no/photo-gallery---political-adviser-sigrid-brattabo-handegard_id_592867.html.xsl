@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="bilete-av-politisk-radgjevar-sigrid-brattabo-handegard.html_id=592867" xml:lang="nno"/>
-	<parallel_text location="bilder-av-politisk-radgiver-sigrid-brattabo-handegard.html_id=592867" xml:lang="nob"/>
-	<parallel_text location="govvavuorka---politihkala-raeaddi-sigrid-brattabo-handegard.html_id=592867" xml:lang="sme"/>
+	<parallel_text location="bilete-av-politisk-radgjevar-sigrid-brattabo-handegard_id_592867.html" xml:lang="nno"/>
+	<parallel_text location="bilder-av-politisk-radgiver-sigrid-brattabo-handegard_id_592867.html" xml:lang="nob"/>
+	<parallel_text location="govvavuorka---politihkala-raeaddi-sigrid-brattabo-handegard_id_592867.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

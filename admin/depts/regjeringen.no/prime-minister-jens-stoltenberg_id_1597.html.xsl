@@ -195,9 +195,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="statsminister-jens-stoltenberg.html_id=1597" xml:lang="nno"/>
-	<parallel_text location="statsminister_jens_stoltenberg.html_id=1597" xml:lang="nob"/>
-	<parallel_text location="stahtaministtar-jens-stoltenberg.html_id=1597" xml:lang="sme"/>
+	<parallel_text location="statsminister-jens-stoltenberg_id_1597.html" xml:lang="nno"/>
+	<parallel_text location="statsminister_jens_stoltenberg_id_1597.html" xml:lang="nob"/>
+	<parallel_text location="stahtaministtar-jens-stoltenberg_id_1597.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

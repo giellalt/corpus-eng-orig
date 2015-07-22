@@ -151,8 +151,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="68-milliardar-kroner-meir-til-kommunesek.html_id=701320" xml:lang="nno"/>
-	<parallel_text location="68-miljardda-kruvnnu-lassaneapmi-gieldda.html_id=701320" xml:lang="sme"/>
+	<parallel_text location="68-milliardar-kroner-meir-til-kommunesek_id_701320.html" xml:lang="nno"/>
+	<parallel_text location="68-miljardda-kruvnnu-lassaneapmi-gieldda_id_701320.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

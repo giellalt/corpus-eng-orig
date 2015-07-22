@@ -152,9 +152,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="marianne-a-olsen-mottok-gandhistipendet-.html_id=623349" xml:lang="nno"/>
-	<parallel_text location="noreg-og-russland-underteiknar-avtale-om.html_id=622461" xml:lang="nob"/>
-	<parallel_text location="radjaassiduodastusa.html_id=622461" xml:lang="sme"/>
+	<parallel_text location="marianne-a-olsen-mottok-gandhistipendet-_id_623349.html" xml:lang="nno"/>
+	<parallel_text location="noreg-og-russland-underteiknar-avtale-om_id_622461.html" xml:lang="nob"/>
+	<parallel_text location="radjaassiduodastusa_id_622461.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

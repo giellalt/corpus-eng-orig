@@ -153,9 +153,9 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="garantikassa-for-fiskarane.html_id=163538" xml:lang="nno"/>
-	<parallel_text location="garantikassen-for-fiskerne.html_id=163538" xml:lang="nob"/>
-	<parallel_text location="guolasteddjiid-dahkaduskassa-.html_id=163538" xml:lang="sme"/>
+	<parallel_text location="garantikassa-for-fiskarane_id_163538.html" xml:lang="nno"/>
+	<parallel_text location="garantikassen-for-fiskerne_id_163538.html" xml:lang="nob"/>
+	<parallel_text location="guolasteddjiid-dahkaduskassa-_id_163538.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 

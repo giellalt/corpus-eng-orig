@@ -153,8 +153,8 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="minnemarkering-pa-holocaustdagen.html_id=670621" xml:lang="nob"/>
-	<parallel_text location="a.html_id=670621" xml:lang="sme"/>
+	<parallel_text location="minnemarkering-pa-holocaustdagen_id_670621.html" xml:lang="nob"/>
+	<parallel_text location="a_id_670621.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 
