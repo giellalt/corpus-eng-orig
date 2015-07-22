@@ -197,7 +197,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="statsministerens-nyttarstale-2010.html_id=589483" xml:lang="nob"/>
-	<parallel_text location="haaleme-heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957" xml:lang="sma"/>
+	<parallel_text location="haaleme-heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie_id_620957.html" xml:lang="sma"/>
 	<parallel_text location="stahtaministara-oajagesardni-jagi-2010.html_id=589483" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)

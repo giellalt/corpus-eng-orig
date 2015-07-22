@@ -154,7 +154,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="apnet-teknologisenteret-pa-mongstad.html_id=681131" xml:lang="nob"/>
-	<parallel_text location="teknolijejarngem-mongstadesne-rihpesti.html_id=681131" xml:lang="sma"/>
+	<parallel_text location="teknolijejarngem-mongstadesne-rihpesti_id_681131.html" xml:lang="sma"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 
