@@ -94,7 +94,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="" xml:lang="fin"/>
-	<parallel_text location="index.php_option=com_content_task=view_id=19_itemid=109_lang=davvi.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 	<parallel_text location="" xml:lang="sms"/>
 	<parallel_text location="" xml:lang="smn"/>
 </xsl:variable>
