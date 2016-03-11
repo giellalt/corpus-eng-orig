@@ -155,7 +155,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="rettleiingar-og-brosjyrar_id_2129.html" xml:lang="nno"/>
 	<parallel_text location="veiledninger_brosjyrer_id_2129.html" xml:lang="nob"/>
-	<parallel_text location="bagadusat-ja-gihppagat_id_2129.html" xml:lang="sme"/>
+	<parallel_text location="" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
 
