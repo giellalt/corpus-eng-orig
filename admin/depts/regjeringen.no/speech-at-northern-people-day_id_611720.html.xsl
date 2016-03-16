@@ -197,7 +197,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="tale-til-nordlige-folk--dagen_id_611720.html" xml:lang="nob"/>
-	<parallel_text location="haaleme-heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957" xml:lang="sma"/>
+	<parallel_text location="" xml:lang="sma"/>
 	<parallel_text location="tale-til-nordisek-folk--dagen_id_611720.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)

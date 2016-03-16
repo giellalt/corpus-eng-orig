@@ -152,7 +152,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="fleire_id_659466.html" xml:lang="nno"/>
-	<parallel_text location="regjeringen-prioriterer-utviklingen-av-d.html_id=659582" xml:lang="nob"/>
+	<parallel_text location="" xml:lang="nob"/>
 	<parallel_text location="eanet-olbmot-sahttet-dal-geavahit-viesso_id_659466.html" xml:lang="sme"/>
 </xsl:variable>
 >>>>>>> 6cec71f8fa (English regjeringen.no doc renamed, metadata updated in parallel files)
