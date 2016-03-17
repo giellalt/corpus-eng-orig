@@ -120,7 +120,7 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1785_itemid=10.pdf" xml:lang="sms"/>
+    <parallel_text location="eatnu_eadni_eana_koltannos.pdf" xml:lang="sms"/>
 </xsl:variable>
 
 

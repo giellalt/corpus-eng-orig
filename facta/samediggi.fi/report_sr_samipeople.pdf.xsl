@@ -120,8 +120,8 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1580_itemid=10.pdf" xml:lang="sme"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=1556_itemid=10.pdf" xml:lang="fin"/>
+    <parallel_text location="report_sr_samipeople_pohjoissaame.pdf" xml:lang="sme"/>
+<parallel_text location="report_sr_samipeople_fi.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 

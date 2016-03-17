@@ -120,10 +120,10 @@
         <!-- <parallel_text xml:lang="smn" location=""/> -->
         <!-- <parallel_text xml:lang="sms" location=""/> -->
         <!-- <parallel_text xml:lang="swe" location=""/> -->
-    <parallel_text location="index.php_option=com_docman_task=doc_download_gid=1274_itemid=10.pdf" xml:lang="smn"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=1262_itemid=10.pdf" xml:lang="sme"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=1277_itemid=10.pdf" xml:lang="sms"/>
-<parallel_text location="index.php_option=com_docman_task=doc_download_gid=1261_itemid=10.pdf" xml:lang="fin"/>
+    <parallel_text location="climat_inarinsaame.pdf" xml:lang="smn"/>
+<parallel_text location="climat_pohjoiss.pdf" xml:lang="sme"/>
+<parallel_text location="ilmastomuutosta27.pdf" xml:lang="sms"/>
+<parallel_text location="climat_suomi.pdf" xml:lang="fin"/>
 </xsl:variable>
 
 
