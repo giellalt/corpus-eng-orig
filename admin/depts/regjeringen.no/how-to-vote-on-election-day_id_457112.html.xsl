@@ -8,7 +8,7 @@
 <xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-vote-on-election-day.html?id=457112'"/>
 <xsl:variable name="title" select="'Ná don jienastat válgabeaivvi - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
-<xsl:variable name="author1_ln" select="''"/>
+<xsl:variable name="author1_ln" select="'Ministry of Local Government and Regional Development'"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
 <xsl:variable name="author1_nat" select="''"/>
 <xsl:variable name="author1_born" select="''"/>
@@ -27,9 +27,9 @@
 <xsl:variable name="author4_gender" select="''"/>
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
-<xsl:variable name="publisher" select="''"/>
+<xsl:variable name="publisher" select="'regjeringen.no'"/>
 <xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="''"/>
+<xsl:variable name="year" select="'2009'"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
