@@ -11,7 +11,7 @@
         These days it is automatically added by the add_files_to_corpus tool.
         http://divvun.no/doc/ling/CorpusTools.html#add_files_to_corpus
     -->
-    <xsl:variable name="filename" select="'http://samas.no/en/a/ris-og-ros-engelsk'"/>
+    <xsl:variable name="filename" select="'http://samas.no/en/studier/bagadallanpedagogihkka-1'"/>
     <xsl:variable name="text_encoding" select="''"/>
     <xsl:variable name="title" select="''"/>
     <!--
@@ -168,10 +168,10 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location="ris-og-ros.html"/>
+        <parallel_text xml:lang="nob" location="bagadallanpedagogihkka-1.html"/>
         <parallel_text xml:lang="rus" location=""/>
         <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location="rapmi-ja-moaitta.html"/>
+        <parallel_text xml:lang="sme" location="bagadallanpedagogihkka-1.html"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
