@@ -18,8 +18,8 @@
         Information of the first author: first name, last name,
         date or year of birth, nationality.
     -->
-    <xsl:variable name="author1_fn" select="''"/>
-    <xsl:variable name="author1_ln" select="''"/>
+    <xsl:variable name="author1_fn" select="'Laila Susanne'"/>
+    <xsl:variable name="author1_ln" select="'Vars'"/>
     <!-- m, f or unknown -->
     <xsl:variable name="author1_gender" select="'unknown'"/>
     <!--
@@ -88,8 +88,8 @@
     -->
     <xsl:variable name="translated_from" select="''"/>
     <!-- Translator variables have the same format as the author ones -->
-    <xsl:variable name="translator_fn" select="''"/>
-    <xsl:variable name="translator_ln" select="''"/>
+    <xsl:variable name="translator_fn" select="'Nils Ole'"/>
+    <xsl:variable name="translator_ln" select="'Gaup'"/>
     <xsl:variable name="translator_gender" select="'unknown'"/>
     <xsl:variable name="translator_born" select="''"/>
     <xsl:variable name="translator_nat" select="''"/>
