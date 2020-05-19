@@ -167,11 +167,11 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nno" location="udir_forelderinfo_skole_nynorsk.pdf"/>
+        <parallel_text xml:lang="nob" location="udir_forelderinfo_skole_bokmaal.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
+        <parallel_text xml:lang="sma" location="udir_forelderinfo_skole_sorsamisk.pdf"/>
+        <parallel_text xml:lang="sme" location="udir_forelderinfo_skole_nordsamisk.pdf"/>
         <parallel_text xml:lang="smj" location=""/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
