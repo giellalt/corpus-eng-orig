@@ -168,11 +168,11 @@
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
         <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nob" location="til-deg-som-har-fatt-beskjed-om-a-holde-deg-hjemme_nob.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sma" location="til-deg-som-har-fatt-beskjed-om-a-holde-deg-hjemme_sma.pdf"/>
+        <parallel_text xml:lang="sme" location="til-deg-som-har-fatt-beskjed-om-a-holde-deg-hjemme_sme.pdf"/>
+        <parallel_text xml:lang="smj" location="til-deg-som-har-fatt-beskjed-om-a-holde-deg-hjemme_smj.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
