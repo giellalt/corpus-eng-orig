@@ -167,12 +167,12 @@
         <parallel_text xml:lang="isl" location=""/>
         <parallel_text xml:lang="kal" location=""/>
         <parallel_text xml:lang="kpv" location=""/>
-        <parallel_text xml:lang="nno" location=""/>
-        <parallel_text xml:lang="nob" location=""/>
+        <parallel_text xml:lang="nno" location="korona_registreringsplakat_nynorsk.pdf"/>
+        <parallel_text xml:lang="nob" location="korona_registreringsplakat_nob.pdf"/>
         <parallel_text xml:lang="rus" location=""/>
-        <parallel_text xml:lang="sma" location=""/>
-        <parallel_text xml:lang="sme" location=""/>
-        <parallel_text xml:lang="smj" location=""/>
+        <parallel_text xml:lang="sma" location="korona_registreringsplakat_sma.pdf"/>
+        <parallel_text xml:lang="sme" location="korona_registreringsplakat_sme.pdf"/>
+        <parallel_text xml:lang="smj" location="korona_registreringsplakat_smj.pdf"/>
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location=""/>
