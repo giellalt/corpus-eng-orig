@@ -13,7 +13,7 @@
     -->
     <xsl:variable name="filename" select="'https://www.fhi.no/contentassets/d6d849ee53624b32844e6f80c5a8cb9f/vedlegg/engelsk_sporsmal-og-svar-om-koronavirus.pdf'"/>
     <xsl:variable name="text_encoding" select="''"/>
-    <xsl:variable name="title" select="'Q&As on coronavirus'"/>
+    <xsl:variable name="title" select="'Q&amp;As on coronavirus'"/>
     <!--
         Information of the first author: first name, last name,
         date or year of birth, nationality.
